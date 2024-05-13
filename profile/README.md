@@ -1,5 +1,3 @@
-# .github
-Our public-facing GitHub README profile.
+# Hello There!
 
-## TODO: 
-well, lots, first need to talk to Alex about this...
+Please go and bug @KemingHe to add his high-quality documentation to this README. We need it.
